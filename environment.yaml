@@ -1,0 +1,13 @@
+name: devtools
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - black
+  - conda-export
+  - ca-certificates
+  - openssl
+  - jedi
+  - certifi
+  - pynvim
+prefix: /home/netraider/miniforge3/envs/devtools
